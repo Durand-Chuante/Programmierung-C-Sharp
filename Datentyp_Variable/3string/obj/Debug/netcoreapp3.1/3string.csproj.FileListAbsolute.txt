@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/3string/obj/Debug/netcoreapp3.1/3string.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/3string/obj/Debug/netcoreapp3.1/3string.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/3string/obj/Debug/netcoreapp3.1/3string.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string.dll
+/home/durand/Schreibtisch/Programmierung_c#/3string/bin/Debug/netcoreapp3.1/3string.pdb
+/home/durand/Schreibtisch/Programmierung_c#/3string/obj/Debug/netcoreapp3.1/3string.dll
+/home/durand/Schreibtisch/Programmierung_c#/3string/obj/Debug/netcoreapp3.1/3string.pdb

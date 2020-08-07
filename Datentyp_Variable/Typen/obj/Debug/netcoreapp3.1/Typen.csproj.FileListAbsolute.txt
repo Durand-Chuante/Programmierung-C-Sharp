@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen.dll
+/home/durand/Schreibtisch/Programmierung_c#/Typen/bin/Debug/netcoreapp3.1/Typen.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Typen/obj/Debug/netcoreapp3.1/Typen.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Typen/obj/Debug/netcoreapp3.1/Typen.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Typen/obj/Debug/netcoreapp3.1/Typen.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Typen/obj/Debug/netcoreapp3.1/Typen.dll
+/home/durand/Schreibtisch/Programmierung_c#/Typen/obj/Debug/netcoreapp3.1/Typen.pdb

@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/bin/Debug/netcoreapp3.1/IfEl.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/obj/Debug/netcoreapp3.1/IfEl.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/obj/Debug/netcoreapp3.1/IfEl.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/obj/Debug/netcoreapp3.1/IfEl.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/obj/Debug/netcoreapp3.1/IfEl.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/IfEl/obj/Debug/netcoreapp3.1/IfEl.pdb

@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.pdb

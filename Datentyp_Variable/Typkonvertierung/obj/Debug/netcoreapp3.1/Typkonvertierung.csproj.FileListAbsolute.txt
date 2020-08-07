@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung.dll
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/bin/Debug/netcoreapp3.1/Typkonvertierung.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/obj/Debug/netcoreapp3.1/Typkonvertierung.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/obj/Debug/netcoreapp3.1/Typkonvertierung.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/obj/Debug/netcoreapp3.1/Typkonvertierung.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/obj/Debug/netcoreapp3.1/Typkonvertierung.dll
+/home/durand/Schreibtisch/Programmierung_c#/Typkonvertierung/obj/Debug/netcoreapp3.1/Typkonvertierung.pdb

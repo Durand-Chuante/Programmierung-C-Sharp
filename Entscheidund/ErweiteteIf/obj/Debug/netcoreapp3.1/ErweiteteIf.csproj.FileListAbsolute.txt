@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/bin/Debug/netcoreapp3.1/ErweiteteIf.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/obj/Debug/netcoreapp3.1/ErweiteteIf.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/obj/Debug/netcoreapp3.1/ErweiteteIf.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/obj/Debug/netcoreapp3.1/ErweiteteIf.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/obj/Debug/netcoreapp3.1/ErweiteteIf.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/ErweiteteIf/obj/Debug/netcoreapp3.1/ErweiteteIf.pdb

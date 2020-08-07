@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/bin/Debug/netcoreapp3.1/Benutzereingabe.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/obj/Debug/netcoreapp3.1/Benutzereingabe.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/obj/Debug/netcoreapp3.1/Benutzereingabe.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/obj/Debug/netcoreapp3.1/Benutzereingabe.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/obj/Debug/netcoreapp3.1/Benutzereingabe.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Benutzereingabe/obj/Debug/netcoreapp3.1/Benutzereingabe.pdb

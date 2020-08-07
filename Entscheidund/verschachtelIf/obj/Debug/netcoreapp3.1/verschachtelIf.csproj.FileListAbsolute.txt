@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/bin/Debug/netcoreapp3.1/verschachtelIf.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/obj/Debug/netcoreapp3.1/verschachtelIf.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/obj/Debug/netcoreapp3.1/verschachtelIf.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/obj/Debug/netcoreapp3.1/verschachtelIf.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/obj/Debug/netcoreapp3.1/verschachtelIf.dll
+/home/durand/Schreibtisch/Programmierung_c#/Entscheidund/verschachtelIf/obj/Debug/netcoreapp3.1/verschachtelIf.pdb

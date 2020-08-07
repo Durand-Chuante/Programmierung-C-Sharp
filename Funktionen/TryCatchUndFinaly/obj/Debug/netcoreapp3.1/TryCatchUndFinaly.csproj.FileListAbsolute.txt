@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/bin/Debug/netcoreapp3.1/TryCatchUndFinaly.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/obj/Debug/netcoreapp3.1/TryCatchUndFinaly.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/obj/Debug/netcoreapp3.1/TryCatchUndFinaly.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/obj/Debug/netcoreapp3.1/TryCatchUndFinaly.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/obj/Debug/netcoreapp3.1/TryCatchUndFinaly.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/TryCatchUndFinaly/obj/Debug/netcoreapp3.1/TryCatchUndFinaly.pdb

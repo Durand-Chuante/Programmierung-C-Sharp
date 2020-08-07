@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/bin/Debug/netcoreapp3.1/Methoden.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/obj/Debug/netcoreapp3.1/Methoden.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/obj/Debug/netcoreapp3.1/Methoden.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/obj/Debug/netcoreapp3.1/Methoden.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/obj/Debug/netcoreapp3.1/Methoden.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Methoden/obj/Debug/netcoreapp3.1/Methoden.pdb

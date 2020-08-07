@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/obj/Debug/netcoreapp3.1/MethodeRueckgabeWert.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/obj/Debug/netcoreapp3.1/MethodeRueckgabeWert.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/obj/Debug/netcoreapp3.1/MethodeRueckgabeWert.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/bin/Debug/netcoreapp3.1/MethodeRueckgabeWert.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/obj/Debug/netcoreapp3.1/MethodeRueckgabeWert.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/MethodeRueckgabeWert/obj/Debug/netcoreapp3.1/MethodeRueckgabeWert.pdb

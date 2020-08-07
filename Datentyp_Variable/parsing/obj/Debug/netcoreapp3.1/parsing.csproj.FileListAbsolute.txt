@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing.dll
+/home/durand/Schreibtisch/Programmierung_c#/parsing/bin/Debug/netcoreapp3.1/parsing.pdb
+/home/durand/Schreibtisch/Programmierung_c#/parsing/obj/Debug/netcoreapp3.1/parsing.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/parsing/obj/Debug/netcoreapp3.1/parsing.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/parsing/obj/Debug/netcoreapp3.1/parsing.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/parsing/obj/Debug/netcoreapp3.1/parsing.dll
+/home/durand/Schreibtisch/Programmierung_c#/parsing/obj/Debug/netcoreapp3.1/parsing.pdb

@@ -1,0 +1,11 @@
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren.deps.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren.runtimeconfig.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren.runtimeconfig.dev.json
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/bin/Debug/netcoreapp3.1/Operatoren.pdb
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/obj/Debug/netcoreapp3.1/Operatoren.csprojAssemblyReference.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/obj/Debug/netcoreapp3.1/Operatoren.AssemblyInfoInputs.cache
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/obj/Debug/netcoreapp3.1/Operatoren.AssemblyInfo.cs
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/obj/Debug/netcoreapp3.1/Operatoren.dll
+/home/durand/Schreibtisch/Programmierung_c#/Funktionen/Operatoren/obj/Debug/netcoreapp3.1/Operatoren.pdb
